@@ -9,17 +9,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "nanoid": "3.1.28",
+    "parcel": "^2.7.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-mde": "11.5.0",
-    "showdown": "1.9.1",
     "react-split": "2.0.13",
-    "nanoid": "3.1.28"
+    "showdown": "1.9.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
+    "cssnano": "^5.1.13",
+    "postcss": "^8.4.18",
     "vite": "^3.1.0"
   }
 }
